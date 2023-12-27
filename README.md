@@ -77,10 +77,11 @@ First Take Domain name and Hosting Platform (i did in InfinityFree)
 Then install Wordpress Software 
 
 Then install other plugin software like
-**Woo Commerence (website into online store)
+**Woo Commerence** (website into online store
 
-Elementor and Elementor Pro(This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors & content, forms & popup builder, and more. )
-Rishi Companion(for faster response)**
+**Elementor and Elementor Pro**(This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors & content, forms & popup builder, and more)
+
+**Rishi Companion**(for faster response)
 no one gonna read this so admin id = tylor and password = Tylorz11
 
 ## Features
